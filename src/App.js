@@ -7,6 +7,7 @@ import CallBack from './component/3_Callback'
 // import AsyncA from './component/6_Async_Await'
 // import TryCatch from './component/7_Try_Catch'
 // import Fetch from './component/8_Fetch_api'
+ import MAPmethods from './component/9_map_filter_reducer'
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
     {/* <AsyncA/> */}
     {/* <TryCatch/> */}
     {/* <Fetch/> */}
+    <MAPmethods/>
     </>
   );
 }
